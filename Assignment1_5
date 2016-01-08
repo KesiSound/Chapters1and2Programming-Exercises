@@ -1,0 +1,9 @@
+//Kesi Sound
+//Period 2
+//Mr. Friedland
+//Program computes and prints the expression given 
+public class Assignment1_5 {
+	public static void main(String[] args) {
+		System.out.println(((9.5*4.5)-(2.5*3))/(45.5-3.5));
+	}
+}
