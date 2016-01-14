@@ -1,0 +1,11 @@
+//Kesi Sound
+//Period 2
+//Mr. Friedland
+//Program displays the population for each of the next five years
+public class Assignment1_11 {
+	public static void main(String[] args) {
+		int population = 312032486;
+		System.out.print("The world population in 5 years is: ");
+		System.out.println(population+13399913);
+	}
+}
